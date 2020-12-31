@@ -1,0 +1,6 @@
+a=input("Enter 2 Numbers\n")
+b=input("")
+div=int(a)/int(b)
+print("Quotient is ",div)
+mod=int(a)%int(b)
+print("Reminder is ",mod)
